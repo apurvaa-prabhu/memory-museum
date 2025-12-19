@@ -3,6 +3,12 @@
 Memory Museum is an interactive web-based visual project that presents personal memories in a 360-degree circular gallery. Images are arranged in a rotating ring that users can spin, explore, and interact with. Clicking on an image opens a lightbox view that displays the photo along with a short description or story.
 
 This project focuses on immersive visual interaction using Three.js, custom GLSL shaders, and smooth mouse-based controls.
+![IMG_1620](https://github.com/user-attachments/assets/463ce06e-a7ca-4ece-8e31-9d419794b4fc)
+
+![PNG image](https://github.com/user-attachments/assets/2c8a1948-b663-4d7a-b8a2-b4279423f971)
+
+![IMG_6495](https://github.com/user-attachments/assets/a17c6ba0-6c75-45dd-beb3-f568c6d7d33b)
+
 
 
 ## Features
