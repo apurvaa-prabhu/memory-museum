@@ -19,7 +19,7 @@ This project focuses on immersive visual interaction using Three.js, custom GLSL
 - Animated particle background using GLSL shaders
 - Mouse-responsive visual effects
 - Keyboard navigation support
-- Responsive layout for desktop and mobile
+- Responsive layout for a desktop
 
 
 ## Technologies Used
@@ -126,18 +126,7 @@ This project was created for educational purposes.
 All images belong to their respective owners.
 
 
-
-## Acknowledgments:
-
-Three.js for 3D rendering
-Open-source WebGL and shader resources
-Inspiration from wndr wall and insta nonsense from the wndr museum.
-
-
-
-## Sources & Code Validation:
-
-The implementation and techniques used in Memory Museum are based on well-documented, industry-standard web graphics practices. The following sources validate the correctness and legitimacy of the code structure, APIs, and interaction patterns used in this project.
+## Sources:
 
 
 Three.js Official Documentation
