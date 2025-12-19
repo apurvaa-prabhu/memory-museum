@@ -1,4 +1,4 @@
-# Memory Museumm
+# Memory Museum
 
 Memory Museum is an interactive web-based visual project that presents personal memories in a 360-degree circular gallery. Images are arranged in a rotating ring that users can spin, explore, and interact with. Clicking on an image opens a lightbox view that displays the photo along with a short description or story.
 
